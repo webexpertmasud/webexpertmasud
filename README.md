@@ -1,4 +1,4 @@
-<img src="cover.png">
+<img src="COVER.png">
 
 <!-- Dark-Themed README.md for GitHub -->
 
