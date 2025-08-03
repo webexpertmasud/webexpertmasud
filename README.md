@@ -1,80 +1,67 @@
-<img src="COVER.png">
+<img src="COVER.png" alt="Banner" />
 
-<!-- Dark-Themed README.md for GitHub -->
+<!-- Professional GitHub Profile README -->
 
-<div align="center" style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px;">
+<div align="center">
 
-<h1>Hello, I'm MD. IFTEKHAR - UL - ALAM</h1>
-<h3>A passionate fullstake developer from Bangladesh 🇧🇩</h3>
+# 👋 Hi, I'm MD. Masud Rana  
+### A passionate Full Stack Web Developer from Bangladesh 🇧🇩
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=iftekharulalam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=webdevelopermasud&label=Profile%20views&color=0e75b6&style=flat)
 
-
-<p>
-  <a href="https://twitter.com/iftekhar_dev" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/iftekhar_dev?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
-<p>🔭 I’m currently working at <a href="https://freedomitinstitutions.com/" style="color:#58a6ff;">Freedom IT Institution</a></p>
+[![Portfolio Website](https://img.shields.io/badge/Visit%20My%20Website-00bcd4?style=for-the-badge&logo=web)](https://webdevelopermasud.com/)
 
 ---
 
-<h3>🌐 Connect with me</h3>
-
-<p>
-  <a href="https://linkedin.com/in/md-iftekhar-ul-alam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:iftekhar@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.facebook.com/iftekharulalam">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/iftekharulalam">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+🔭 I’m currently working as a freelance web developer and WordPress expert, helping clients build modern websites and applications that convert.
 
 ---
 
-<h3>💻 Tech Stack</h3>
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/md-masud-rana-79233b1aa/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:webexpertmasud@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/topfreelancermasud)
+
+---
+
+### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,nodejs,mysql,nextjs,figma,photoshop,illustrator&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,nodejs,mysql,wordpress,laravel,figma,photoshop&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iftekharulalam&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftekharulalam&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=webdevelopermasud&show_icons=true&theme=tokyonight" width="47%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webdevelopermasud&theme=tokyonight" width="47%" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftekharulalam&layout=compact&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevelopermasud&layout=compact&theme=tokyonight" width="47%" alt="Top Languages" />
 </p>
 
 ---
 
-<h3>🚀 Featured Projects</h3>
+### 🚀 Featured Projects
 
-<ul align="left">
-  <li><strong>🏆 Project 1:</strong> <a href="https://github.com/iftekharulalam/project-1" style="color:#58a6ff;">E-commerce Frontend</a> – Built with React, Redux, Tailwind</li>
-  <li><strong>🧠 Project 2:</strong> <a href="https://github.com/iftekharulalam/project-2" style="color:#58a6ff;">Student Management System</a> – PHP + MySQL + Admin Dashboard</li>
-</ul>
+- 🛒 **[Advanced eCommerce Storefront](https://github.com/webdevelopermasud/your-project)**  
+  Built with WordPress + WooCommerce + Custom Theme & ACF
+
+- 📚 **[Student Portal System](https://github.com/webdevelopermasud/your-project)**  
+  Laravel + MySQL-based academic management system
+
+<!-- Replace URLs with your real project links -->
 
 ---
 
-<h3>📫 Let’s Build Together!</h3>
+### 📫 Let’s Work Together!
 
-<p>If you’re hiring, collaborating, or just want to chat tech—feel free to <a href="mailto:iftekhar@example.com" style="color:#58a6ff;">reach out</a>!</p>
+If you’re looking to hire a dedicated developer for your next website or web app, [contact me](mailto:webexpertmasud@gmail.com) or visit my [portfolio](https://webdevelopermasud.com/).
 
-<p>🌱 "Code is not just code, it's a craft we keep refining every day."</p>
+> _"Code is not just code — it's a craft we keep refining every day."_
 
 </div>
