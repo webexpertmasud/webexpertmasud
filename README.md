@@ -92,7 +92,7 @@ I focus on building reliable, scalable, secure, and business-focused web solutio
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=webexpertmasud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/webexpertmasud/webexpertmasud/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <br><br>
