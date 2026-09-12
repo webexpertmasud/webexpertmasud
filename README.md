@@ -46,15 +46,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webexpertmasud&show_icons=true&theme=tokyonight&hide_border=true" width="47%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=webexpertmasud&theme=tokyonight&hide_border=true" width="47%" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webexpertmasud&layout=compact&theme=tokyonight&hide_border=true" width="47%" alt="Top Languages" />
-</p>
-
 ### 🚀 Featured Projects
 
 - 🛒 **[Advanced eCommerce Storefront](https://reachscript.com/)**  
