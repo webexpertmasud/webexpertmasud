@@ -1,8 +1,4 @@
-<img src="COVER.png" alt="MD. Masud Rana - Full Stack Web Developer" width="100%" />
-
-<!-- ===================================================== -->
-<!--              PROFESSIONAL GITHUB README              -->
-<!-- ===================================================== -->
+<img src="./COVER.png" alt="MD. Masud Rana - Full Stack Web Developer" width="100%" />
 
 <div align="center">
 
@@ -11,7 +7,7 @@
 ### 🚀 Full Stack Web Developer | Laravel & WordPress Specialist | AI Automation
 
 <p>
-  <b>Building scalable websites, web applications & digital solutions for businesses worldwide.</b>
+  Building modern websites, web applications, eCommerce platforms & digital solutions for businesses worldwide.
 </p>
 
 <p>
@@ -25,6 +21,9 @@
   <a href="https://www.linkedin.com/in/software-engineer-masud/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/webexpertmasud">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 </div>
@@ -33,49 +32,55 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Web Developer from Bangladesh 🇧🇩** with **12+ years of experience** building websites, web applications, eCommerce platforms, and custom digital solutions.
+I'm a **Full Stack Web Developer from Bangladesh 🇧🇩** with **12+ years of professional experience** in web development and digital solutions.
 
-My core expertise includes **PHP, Laravel, WordPress, Shopify, JavaScript, MySQL, REST APIs, SEO, and AI automation**.
+My core expertise includes **PHP, Laravel, WordPress, Shopify, JavaScript, MySQL, REST APIs, Technical SEO, and AI Automation**.
 
-I enjoy turning business requirements into reliable, scalable, and user-friendly digital products.
+I focus on building reliable, scalable, secure, and business-focused web solutions.
 
-- 🔭 Currently working on **Full Stack Web Development & AI Automation**
-- 💼 Freelancing with clients from different countries
-- 🏗️ Building custom **Laravel & WordPress solutions**
-- 🛒 Experienced in **eCommerce & WooCommerce**
-- 🤖 Exploring and implementing **AI-powered workflows**
-- 🔍 Experienced in **Technical SEO & website optimization**
-- 🌍 Available for **remote projects and long-term collaborations**
-- ⚡ Focused on clean code, performance, security, and business results
+### 💼 What I Do
+
+- 🌐 Full Stack Web Development
+- 🐘 PHP & Laravel Development
+- 📝 WordPress Development & Customization
+- 🛒 WooCommerce & Shopify Development
+- 🤖 AI Automation & AI-Powered Solutions
+- 🔌 REST API & Third-Party Integrations
+- 🔍 Technical SEO & Website Optimization
+- ⚡ Performance Optimization
+- 🛠️ Website Maintenance & Bug Fixing
+- 🚀 Custom Business Applications
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-### Frontend
+### 💻 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Technologies" />
 </p>
 
-### Backend & Frameworks
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql" alt="Backend Technologies" />
 </p>
 
-### CMS & eCommerce
+### 🛒 CMS & eCommerce
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
 </p>
 
-**WordPress · WooCommerce · Shopify · Custom CMS Development**
+<p>
+  <b>WordPress</b> · <b>WooCommerce</b> · <b>Shopify</b> · <b>Custom CMS</b>
+</p>
 
-### Design & Tools
+### 🔧 Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,vscode" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" alt="Development Tools" />
 </p>
 
 ---
@@ -84,15 +89,45 @@ I enjoy turning business requirements into reliable, scalable, and user-friendly
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=webexpertmasud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub Statistics" />
+### 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=webexpertmasud&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com?user=webexpertmasud&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webexpertmasud&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+### 📈 GitHub Activity
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=webexpertmasud&theme=tokyo-night&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
+
+---
+
+## 📌 GitHub Profile
+
+<p align="center">
+
+<a href="https://github.com/webexpertmasud">
+  <img
+    src="https://img.shields.io/github/followers/webexpertmasud?label=GitHub%20Followers&style=for-the-badge&logo=github"
+    alt="GitHub Followers"
+  />
+</a>
+
+<a href="https://github.com/webexpertmasud?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Public%20Repositories-View%20Projects-181717?style=for-the-badge&logo=github"
+    alt="Repositories"
+  />
+</a>
+
+</p>
 
 ---
 
@@ -100,53 +135,57 @@ I enjoy turning business requirements into reliable, scalable, and user-friendly
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🌐 Web Applications
 
-Custom business applications, dashboards, portals, SaaS platforms and API-driven systems using Laravel and modern web technologies.
+Custom web applications, business platforms, dashboards, portals, SaaS products, and API-driven systems.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 eCommerce
 
-High-performing eCommerce websites using WooCommerce, Shopify and custom solutions.
+WooCommerce, Shopify, and custom eCommerce platforms focused on performance, usability, and conversions.
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🤖 AI Automation
 
-AI-powered workflows, automation solutions and integrations designed to reduce repetitive work and improve productivity.
+AI-powered workflows, business automation, API integrations, and productivity solutions.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔍 SEO & Optimization
 
-Technical SEO, website performance optimization, search visibility and conversion-focused improvements.
+Technical SEO, website performance, Core Web Vitals, search visibility, and conversion optimization.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 💼 Featured Work
+## 💼 Featured Projects
 
 ### 🚀 ReachScript
 
 **Custom Software & AI Solutions**
 
-🌐 https://reachscript.com/
+🌐 [https://reachscript.com/](https://reachscript.com/)
 
-A digital solutions platform focused on custom software development, web applications, AI automation, SEO and business solutions.
+Custom software development, web applications, AI automation, SEO, and digital solutions for businesses worldwide.
 
 ---
 
@@ -154,7 +193,7 @@ A digital solutions platform focused on custom software development, web applica
 
 **Laravel eCommerce Platform**
 
-A custom Laravel-based eCommerce platform designed for fashion and lifestyle products.
+A custom Laravel-based eCommerce platform for fashion and lifestyle products.
 
 ---
 
@@ -162,15 +201,57 @@ A custom Laravel-based eCommerce platform designed for fashion and lifestyle pro
 
 **Travel & Tour Platform**
 
-A travel-focused web platform built for tour management, bookings and online customer services.
+A travel-focused platform for tours, bookings, customer services, and online travel solutions.
 
 ---
 
-## 📈 Experience
+## 📈 Experience & Achievements
 
-```text
-12+ Years        Web Development
-300+             Laravel Projects
-1,600+           WordPress Projects
-500+             Shopify Websites
-International    Remote Clients
+<div align="center">
+
+| Experience | Achievement |
+|---|---:|
+| 💻 Web Development | **12+ Years** |
+| 🐘 Laravel Projects | **300+** |
+| 📝 WordPress Projects | **1,600+** |
+| 🛒 Shopify Websites | **500+** |
+| 🌍 International Clients | **Worldwide** |
+| 🤖 AI Automation | **Growing Expertise** |
+
+</div>
+
+---
+
+## 🌎 Connect With Me
+
+<div align="center">
+
+<p>
+
+<a href="https://reachscript.com/">
+<img src="https://img.shields.io/badge/🌐%20Website-reachscript.com-00bcd4?style=for-the-badge" alt="Website" />
+</a>
+
+<a href="https://www.linkedin.com/in/software-engineer-masud/">
+<img src="https://img.shields.io/badge/LinkedIn-Md.%20Masud%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/webexpertmasud">
+<img src="https://img.shields.io/badge/GitHub-webexpertmasud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="mailto:webexpertmasud@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</p>
+
+### 💬 Available for Freelance Projects, Remote Opportunities & Long-Term Collaborations
+
+**Let's build something great together. 🚀**
+
+<br>
+
+> _"Great software is built with clean code, continuous learning, and a focus on real business impact."_
+
+</div>
