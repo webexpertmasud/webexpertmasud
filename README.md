@@ -97,12 +97,6 @@ I focus on building reliable, scalable, secure, and business-focused web solutio
 
 <br><br>
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=webexpertmasud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 </div>
 
 ---
