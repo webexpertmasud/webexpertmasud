@@ -48,10 +48,10 @@
 
 ### 🚀 Featured Projects
 
-- 🛒 **[Advanced eCommerce Storefront](https://github.com/webdevelopermasud/your-project)**  
+- 🛒 **[Advanced eCommerce Storefront](https://reachscript.com/)**  
   Built with WordPress + WooCommerce + Custom Theme & ACF
 
-- 📚 **[Student Portal System](https://github.com/webdevelopermasud/your-project)**  
+- 📚 **[Student Portal System](https://reachscript.com/)**  
   Laravel + MySQL-based academic management system
 
 <!-- Replace URLs with your real project links -->
