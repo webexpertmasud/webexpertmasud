@@ -104,6 +104,7 @@ I focus on building reliable, scalable, secure, and business-focused web solutio
   src="https://github-readme-activity-graph.vercel.app/graph?username=webexpertmasud&theme=tokyo-night&hide_border=true"
   alt="GitHub Activity Graph"
 />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=webexpertmasud&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
 
 </div>
 
