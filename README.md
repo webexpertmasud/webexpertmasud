@@ -60,7 +60,7 @@
 
 ### 📫 Let’s Work Together!
 
-If you’re looking to hire a dedicated developer for your next website or web app, [contact me](mailto:webexpertmasud@gmail.com) or visit my [portfolio](https://webdevelopermasud.com/).
+If you’re looking to hire a dedicated developer for your next website or web app, [contact me](mailto:webexpertmasud@gmail.com) or visit my [portfolio](https://reachscript.com/).
 
 > _"Code is not just code — it's a craft we keep refining every day."_
 
